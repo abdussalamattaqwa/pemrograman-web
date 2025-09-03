@@ -175,7 +175,6 @@ div {
   - Gunakan **text-align** (misalnya center, justify).
   - Tambahkan warna link dan efek hover pada link artikel terkait.  
 
-
 ---
 
 ## 3. Navigasi Dasar
@@ -192,7 +191,6 @@ div {
 - Kotak pertama: gunakan `width` dalam **px** (misalnya 200px).  
 - Kotak kedua: gunakan `width` dalam **%** (misalnya 50%).  
 - Tambahkan **padding** dan **margin** untuk membedakan ruang.  
-➡️ Variasi mahasiswa: ukuran, warna, margin, padding berbeda.
 
 ---
 
@@ -203,7 +201,6 @@ div {
   - Gunakan font berbeda untuk header dan isi.
   - Format teks (tebal, miring, underline) pada beberapa bagian.
   - Gunakan minimal satu pseudo-class pada link.  
-➡️ Hasil tiap mahasiswa akan berbeda karena bebas memilih tema, warna, dan isi halaman.
 
 
 ---
