@@ -160,6 +160,7 @@ Bagian bawah halaman atau section, biasanya berisi copyright, kontak, atau link 
 2. Buat halaman **artikel/blog** dengan minimal satu `<article>` dan satu `<aside>`.  
 3. Bangun mini website dengan navigasi `<nav>` yang menghubungkan minimal 3 halaman berbeda.  
 
+
 ---
 
 ## 📚 Referensi

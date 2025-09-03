@@ -1,4 +1,4 @@
-# 📘 Pertemuan: Semantic HTML & CSS Dasar
+# 📘 Pertemuan 3: Semantic HTML & CSS Dasar
 
 ## 👋 Gambaran Umum
 Pertemuan ini membahas dua topik penting dalam pengembangan web:
@@ -14,6 +14,7 @@ Keduanya akan dikombinasikan dalam latihan agar mahasiswa dapat menghasilkan hal
 - Menerapkan **CSS dasar** (warna, font, text formatting, selector, pseudo-class, box model).
 - Menggabungkan Semantic HTML dan CSS dalam proyek sederhana.
 - Melatih kreativitas mahasiswa agar menghasilkan halaman web dengan variasi berbeda.
+
 
 ---
 
