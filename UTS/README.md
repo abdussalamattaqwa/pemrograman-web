@@ -15,7 +15,7 @@
    - Soal 4 → `soal4.html` (+ file JS jika eksternal)
    - Soal 5 → `soal5.html`
 4. Sertakan screenshot hasil running program di folder yang sama.
-5. Kumpulkan melalui LMS / Google Drive / GitHub sesuai arahan dosen.
+5. Kumpulkan melalui Google Drive sesuai arahan dosen.
 
 ---
 
