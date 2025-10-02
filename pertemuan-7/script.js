@@ -1,0 +1,1 @@
+alert("Halo, ini dari bahasa perograman javascript")

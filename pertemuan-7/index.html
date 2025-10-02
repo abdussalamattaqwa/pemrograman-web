@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan</title>
+</head>
+
+<body>
+
+    <style>
+
+    </style>
+
+
+
+    <h1 id="heading1">Hello Jacvascript</h1>
+
+    <p id="demo">Teks Awal</p>
+
+    <button onclick="document.getElementById('demo').innerHTML='Teks ini sudah berubah'"> Klik Saya </button>
+
+    <ul>
+        <li class="ganjil">Item 1</li>
+        <li id="it2">Item 2</li>
+        <li class="ganjil">Item 3</li>
+        <li>Item 3</li>
+        <li class="ganjil">Item 3</li>
+        <li>Item 3</li>
+    </ul>
+
+
+
+
+    <script>
+
+        // let list = document.getElementsByTagName('li');
+        // console.log(list[2]);
+
+        // list[0].innerHTML = "Item yang diubah"
+        // list[2].innerHTML = "Item 3 yang diubah"
+
+        // let item2 = document.getElementById('it2')
+        // item2.innerHTML = "Halo, ini item 2"
+
+        let itemGanjil = document.getElementsByClassName('ganjil')
+        console.log(itemGanjil)
+        itemGanjil[2].innerHTML = "Halo ini item ganjil array ke 2"
+
+        // document.write("<p>Belajar Javascript Menyenangkan</p>")
+
+
+        // let tag_heading = document.getElementById('heading1')
+        // tag_heading.innerHTML = "halo ini teks baru"
+
+
+        // let nama = prompt("Siapa nama anda")
+        // alert("Selamat datang, " + nama + "!")
+
+        // tag_heading.innerHTML = "halo, Selamat datang pak " + nama
+    </script>
+</body>
+
+</html>
